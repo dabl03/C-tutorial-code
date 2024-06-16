@@ -23,7 +23,7 @@ Se compila igual que main:
   echo para Windows
   gcc -o ejemplo-de-const.exe ejemplo-de-const.c
 </codes></pre>
-<mark>Nota:</mark> No necesaria mente necesita el mismo nombre el archivo ejecutable que el código fuente: <codes>gcc -o main.exe ejemplo-de-const.c</codes>
+> Nota: No necesaria mente necesita el mismo nombre el archivo ejecutable que el código fuente: <codes>gcc -o main.exe ejemplo-de-const.c</codes>
 
 ### ejemplo-de-long.c
 
@@ -62,4 +62,4 @@ Lo mismo, pero sin el <codes>.exe</codes>:
     ./ejemplo-de-const
   </codes>
 </pre>
-<mark>Nota:</mark> Se le coloca <codes>./</codes> para que la consola sepa que el programa está en la carpeta actual.
+> Nota: Se le coloca <codes>./</codes> para que la consola sepa que el programa está en la carpeta actual.
