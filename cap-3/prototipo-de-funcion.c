@@ -2,7 +2,7 @@
 #include <stdio.h>
 void view_head();// Definimos la función, pero no lo que hace.
 
-int main(int argc, char** argc){
+int main(int argv, char** argc){
   view_head();
   return 0;
 }
